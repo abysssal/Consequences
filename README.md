@@ -1,5 +1,5 @@
 # The Consequences Discord Bot
-<small>if the bot takes over your server, you were the one that added it, and i am not liable for any damage done because this is your fault for adding the bot in the first place nightmare nightmare nightmare nightmare nightmare nightmare nightmare nightmare</small>
+<p><small>if the bot takes over your server, you were the one that added it, and i am not liable for any damage done because this is your fault for adding the bot in the first place nightmare nightmare nightmare nightmare nightmare nightmare nightmare nightmare</small></p>
 
 ## What is Consequences?
 Consequences is an elaborate artificial intelligence and machine learning masterpiece to automatically moderate your Discord server and keep all the nasty children out so Discord doesn't get mad at you!
