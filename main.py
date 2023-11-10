@@ -33,7 +33,7 @@ async def on_message(message):
     if message.author.id != 1170490245431693414:
         # if they aren't in the database, register them in the database
         if not db.contains(users.name == message.author.name):
-            db.insert({"name": message.author.name, "reputation": 100})
+            db.insert({"name": message.author.name, "reputation": 25})
 
         # why did this take me so fucking long AAAAAAAAAAAAAAAA
         # anyways, this looks through the database to find the author, and adds the rounded polarity of their message * 10
